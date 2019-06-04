@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is B8FA-459A
+
+ Directory of C:\Users\Administrator\Desktop\rebasedemo
+
+06/04/2019  01:14 PM    <DIR>          .
+06/04/2019  01:14 PM    <DIR>          ..
+06/04/2019  01:14 PM                 0 m1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)   5,022,642,176 bytes free
